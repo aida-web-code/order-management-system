@@ -26,3 +26,6 @@ This project is a conceptual design of an order management system for handling c
 ## Purpose
 
 To streamline order processing and improve customer service efficiency.
+## Documentation
+- [System Overview](system-overview.md)
+- [System Architecture](system-architecture.md)
